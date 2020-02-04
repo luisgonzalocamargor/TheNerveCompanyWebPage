@@ -33,7 +33,13 @@ p {
   background-size: cover;
 }
 
-
+.logo_Container{
+  background-image: linear-gradient(to right, rgb(29, 108, 228),rgb(158, 85, 164),rgb(231, 30, 30));
+  border-radius: 15px;
+  padding: 5px;
+  margin-top: 10px;
+  box-shadow: rgb(1, 148, 81);
+}
 .primary-white-button a {     /* este boton se quedo oculto con las particulas*/
 	display: inline-block;
 	background-color: #fff;
